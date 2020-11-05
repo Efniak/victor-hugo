@@ -1,7 +1,7 @@
 ---
 title: 'Faulkner and Murakami already wrote Burning (2018)'
 date: '2020-09-21T09:13:25+02:00'
-status: publish
+draft: false
 permalink: /faulkner-and-murakami-already-wrote-burning-2018
 author: 'Kumori Hosoku'
 excerpt: ''
