@@ -1,11 +1,10 @@
 ---
 title: 'faulkner-and-murakami-already-wrote-burning-2018'
-date: 2020-09-21T09:13:25+02:00
 draft: false
 ---
 # The Importance of Truth and Lies in Media
 
-These past few months, I have been thinking about how a narrator or the character we see a story through can influence the audience. Evidently, I thought: ‘**a good story must be true**‘. However, ironically, I could not be farther from the truth. Most stories are made-up or are combination of real experiences that are sometimes tweaked to attract the audience. The reason people watch the news is because knowing about what really happened makes it extra compelling. Therefore we could conclude that ‘a good story must seem true’. **A bunch of lies that look real are no different from real events**. To analyse this, I am going to take a look at all kinds of characters: from streamers to film protagonists.
+<p style='text-align: justify;'>These past few months, I have been thinking about how a narrator or the character we see a story through can influence the audience. Evidently, I thought: ‘**a good story must be true**‘. However, ironically, I could not be farther from the truth. Most stories are made-up or are combination of real experiences that are sometimes tweaked to attract the audience. The reason people watch the news is because knowing about what really happened makes it extra compelling. Therefore we could conclude that ‘a good story must seem true’. **A bunch of lies that look real are no different from real events**. To analyse this, I am going to take a look at all kinds of characters: from streamers to film protagonists.</p>
 
 ## Streaming Culture and Comedians
 
@@ -20,8 +19,6 @@ When the best comedians tell a story about themselves, there has to be a point o
 In in physiological thrillers, among other type of films, the story is told from the perspective of one the characters, an external narrator or a character who acts as a narrator. The story might have have exaggerated bits, fictional parts or be completely manufactured. **The protagonist might want to leave a good impression** of oneself and omit bad behaviour or might be too delusional to realise its own flaws. Depending on the situation, there are many reasons the narrator can alter the story.
 
 Obvious examples of this can be a scene in a film where several subjects are questioned about the same event in a police station. Each suspect story is re-created slightly different and the detective has to piece the mystery together. One example is the 2003 film directed by Bong Joon-ho Memories of Murder. In murder mysteries some suspects present fiction as real and it is the job of the detective to believe it or not. The Netflix original The Boys presents the train of thought of Homelander first as if it was happening, however, what we would like to do and what we do does not always match.
-
-<iframe title="Homelander vs Protesters Scene - The Boys Season 2 Episode 5" width="580" height="326" src="https://www.youtube.com/embed/rGcySBN7hPc?start=140&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-origwidth="580" data-origheight="326" style="box-sizing: inherit; -webkit-font-smoothing: antialiased; word-break: break-word; overflow-wrap: break-word; display: block; max-width: 100%; position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; height: 382.207px; width: 680px;"></iframe>
 
 Needless to say, there are other examples where differentiating between real and fiction is not quite clear cut as in *The Boys.* Lee Chan-Dong’s Burning (2018) is an example where the director does not explicitly tell the viewer with a big exposition dump about what to think. The audience has to piece together the events of the film and complete the puzzle using hints provided by the director. I have written an article about Lee Chan-Dong and the relations between the source material and the film he crafts called [Faulkner and Murakami already wrote Burning (2018)](https://kumorihosoku.com/faulkner-and-murakami-already-wrote-burning-2018/). Hopefully my words work as an incentive for you to watch the film because a clip would of spoil important parts of it.
 
