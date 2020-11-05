@@ -1,32 +1,9 @@
 ---
-title: 'Faulkner and Murakami already wrote Burning (2018)'
-date: '2020-09-21T09:13:25+02:00'
+title: 'faulkner-and-murakami-already-wrote-burning-2018'
+date: 2020-09-21T09:13:25+02:00
 draft: false
-permalink: /faulkner-and-murakami-already-wrote-burning-2018
-author: 'Kumori Hosoku'
-excerpt: ''
-type: post
-id: 992
-thumbnail: ../uploads/2020/09/2020-09-17-19_02_03-Burning.2018.1080p.NF_.WEB-DL.DDP5_.1.x264-Honey-G.mkv-mpv.net-5.4.8.0.png
-category:
-    - Korean
-tag:
-    - 'Barn Burning'
-    - burning
-    - Faulkner
-    - film
-    - 'Lee Chang-Dong'
-    - Murakami
-post_format: []
-_yoast_wpseo_primary_category:
-    - '3'
-_yoast_wpseo_content_score:
-    - '30'
-_yoast_wpseo_focuskw:
-    - 'Burning Korean Film Faulkner Murakami'
-_yoast_wpseo_linkdex:
-    - '53'
 ---
+
 Of course, Lee Chan-Dong is the screenwriter of the film Burning (2018) and in no way shape or form did he directly copy any of these authors. However, his film was loosely based on the short story by Japanese author Haruki Murakami Barn Burning and at the same time, Murakami’s short story was based on the story by the same name by North American author William Faulkner. In the South Korean film adaptation there are both direct and indirect references to each author and their version of “Barn Burning”.
 
 American Literature, William Faulkner and Burning
